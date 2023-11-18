@@ -1,0 +1,33 @@
+
+.QuestionarioTitulo {
+    text-align: center; 
+    padding: 10px 0; 
+}
+.questionario {
+    font-size: 28px;
+}
+.questionario1 {
+    font-size: 20px; 
+}
+.CuestionarioMateria {
+    font-size: 20px;
+    padding: 15px 0; 
+}
+.btnstyl {
+    text-align: center;
+    align-items: center;
+    border-bottom: 20px solid transparent;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+.semestre {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    width: 500px;
+}
+.pregunta1 {
+    font-size: 22px;
+    margin-bottom: 10px; 
+    margin-top: 10px; 
+}
