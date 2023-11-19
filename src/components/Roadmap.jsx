@@ -1,7 +1,6 @@
 import React from 'react'
 import Semestre from './Semestre';
 import { Typography,Box } from '@mui/material';
-import { blue} from '@mui/material/colors';
 
 function Roadmap({ roadmap }) {
     return (

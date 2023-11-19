@@ -48,7 +48,7 @@ function RegisterUserPage() {
       .catch((error) => {
         console.error("Error al obtener las materias:", error);
       });
-  }, []);
+  }, [api]);
 
   const goToMenu = () => {
     navigate("/menu");

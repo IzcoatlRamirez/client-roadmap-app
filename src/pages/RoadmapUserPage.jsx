@@ -33,7 +33,7 @@ function RoadmapUserPage() {
     };
 
     fetchData();
-  }, []);
+  }, [api]);
 
   return (
     <>

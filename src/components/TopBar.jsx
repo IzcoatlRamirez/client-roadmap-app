@@ -42,7 +42,7 @@ function TopBar() {
       };
   
       fetchData();
-    }, []); 
+    }, [api]); 
   return (
     <AppBar sx={{position:'fixed',top:0,left:0}}>
         <Toolbar>
